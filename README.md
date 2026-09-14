@@ -1,2 +1,2 @@
 # git-practice
-First practice repository.
+First practice repository in IMM
